@@ -1,6 +1,7 @@
 <?php
     session_start();
 ?>
+#dodavanje komentara na kod
 
 <!DOCTYPE html>
 <html lang="en">
