@@ -21,7 +21,8 @@
     <form action="" method="post">
         <div class="form-group">
             <label>Ime</label>
-            <input type="text" name="ime" class="form-control">
+      
+		#<input type="text" name="ime" class="form-control">
         </div>
         <div class="form-group">
             <label>Prezime</label>
