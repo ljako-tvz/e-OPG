@@ -4,6 +4,7 @@
 	<xs:element name="Katalog">
 		<xs:complexType>
 			<xs:sequence>
+				#komentar
 				<xs:element name="Predmet" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
